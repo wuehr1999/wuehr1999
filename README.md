@@ -1,6 +1,6 @@
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/loocars/count.svg" />
+  <img src="https://profile-counter.glitch.me/wuehr1999/count.svg" />
 </p>
 
 <a target="_blank" href="https://www.instagram.com/wuehr1999/">
