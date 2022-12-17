@@ -12,6 +12,7 @@
 <a target="_blank" href="https://www.facebook.com/jonas.wuhr.7">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<br/>
 
 ### 👋 Hello World, I'm Jonas!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
