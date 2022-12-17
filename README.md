@@ -3,8 +3,6 @@
   <img src="https://profile-counter.glitch.me/loocars/count.svg" />
 </p>
 
-### 👋 Hello World, I'm Jonas!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
 <a target="_blank" href="https://www.instagram.com/wuehr1999/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -14,7 +12,8 @@
 <a target="_blank" href="https://www.facebook.com/jonas.wuhr.7">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br>
+
+### 👋 Hello World, I'm Jonas!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 I am a computer engineer interested in autonomous driving, robotics and control theory. I regularly participate at international robotics competitions as a hobbyist.
 
