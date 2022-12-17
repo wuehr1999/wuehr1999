@@ -14,9 +14,7 @@
 <a target="_blank" href="https://www.facebook.com/jonas.wuhr.7">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-</br>
-
-
+<br>
 
 I am a computer engineer interested in autonomous driving, robotics and control theory. I regularly participate at international robotics competitions as a hobbyist.
 
